@@ -2,7 +2,7 @@
 	{
 		"phrase": "Cluster spawn",
 		"comment": "In-game point text",
-		"translation": "Spawn di gruppo"
+		"translation": "Spawn di Gruppo"
 	},
 	{
 		"phrase": "Damage",
@@ -18,60 +18,60 @@
 	{
 		"phrase": "Direct",
 		"comment": "In-game point text",
-		"translation": "Diretto",
+		"translation": "Colpo Diretto",
 		"machine": true
 	},
 	{
 		"phrase": "Disruptor assist",
 		"comment": "In-game point text",
-		"translation": "Assistenza disruptor"
+		"translation": "Assist del Disruptor"
 	},
 	{
 		"phrase": "Headshot",
 		"comment": "In-game point text",
-		"translation": "Colpo alla testa",
+		"translation": "Colpo alla Testa",
 		"machine": true
 	},
 	{
 		"phrase": "Kill",
 		"comment": "In-game point text",
-		"translation": "Kill"
+		"translation": "Uccisione"
 	},
 	{
 		"phrase": "Kill streak",
 		"comment": "In-game point text",
-		"translation": "Kill streak"
+		"translation": "Serie di Uccisioni"
 	},
 	{
 		"phrase": "VIP kill",
 		"comment": "In-game point text",
-		"translation": "VIP kill"
+		"translation": "Uccisione del VIP"
 	},
 	{
 		"phrase": "VIP defend",
 		"comment": "In-game point text",
-		"translation": "Difesa VIP"
+		"translation": "Difesa del VIP"
 	},
 	{
 		"phrase": "Scanner destroyed",
 		"comment": "In-game point text",
-		"translation": "Scanner distrutto",
+		"translation": "Scanner Distrutto",
 		"machine": true
 	},
 	{
 		"phrase": "Scanner assist",
 		"comment": "In-game point text",
-		"translation": "Assistenza scanner"
+		"translation": "Assist dello Scanner"
 	},
 	{
 		"phrase": "C4 destroyed",
 		"comment": "In-game point text",
-		"translation": "C4 distrutta"
+		"translation": "C4 Distrutto"
 	},
 	{
 		"phrase": "Disruptor destroyed",
 		"comment": "In-game point text",
-		"translation": "Disruptor distrutto"
+		"translation": "Disruptor Distrutto"
 	},
 	{
 		"phrase": "Avenger",
@@ -82,135 +82,135 @@
 	{
 		"phrase": "Flag capture",
 		"comment": "In-game point text",
-		"translation": "Cattura bandiera",
+		"translation": "Cattura della Bandiera",
 		"machine": true
 	},
 	{
 		"phrase": "Flag carry",
 		"comment": "In-game point text",
-		"translation": "Porta bandiera",
+		"translation": "Trasporto della Bandiera",
 		"machine": true
 	},
 	{
 		"phrase": "Flag return",
 		"comment": "In-game point text",
-		"translation": "Ritorno bandiera",
+		"translation": "Ritorno della Bandiera",
 		"machine": true
 	},
 	{
 		"phrase": "Flag attack",
 		"comment": "In-game point text",
-		"translation": "Attacco bandiera",
+		"translation": "Attacco alla Bandiera",
 		"machine": true
 	},
 	{
 		"phrase": "Flag defend",
 		"comment": "In-game point text",
-		"translation": "Difesa bandiera"
+		"translation": "Difesa della Bandiera"
 	},
 	{
 		"phrase": "Flag escort",
 		"comment": "In-game point text",
-		"translation": "Escortatore bandiera"
+		"translation": "Escortatore della Bandiera"
 	},
 	{
 		"phrase": "Flag carrier kill",
 		"comment": "In-game point text",
-		"translation": "Uccisione portatore bandiera",
+		"translation": "Uccisione Porta-Bandiera",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb deliver",
 		"comment": "In-game point text",
-		"translation": "Consegna bomba"
+		"translation": "Consegna della Bomba"
 	},
 	{
 		"phrase": "Bomb carry",
 		"comment": "In-game point text",
-		"translation": "Porta bomba",
+		"translation": "Traspoto della Bomba",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb defuse",
 		"comment": "In-game point text",
-		"translation": "Disinnescare la bomba",
+		"translation": "Bomba Disinnescata",
 		"machine": true
 	},
 	{
 		"phrase": "Bomb attack",
 		"comment": "In-game point text",
-		"translation": "Attacco bomba"
+		"translation": "Attacco alla Bomba"
 	},
 	{
 		"phrase": "Bomb defend",
 		"comment": "In-game point text",
-		"translation": "Difesa bomba"
+		"translation": "Difesa della Bomba"
 	},
 	{
 		"phrase": "Bomb escort",
 		"comment": "In-game point text",
-		"translation": "Escortatore bomba"
+		"translation": "Escortatore della Bomba"
 	},
 	{
 		"phrase": "Bomb carrier kill",
 		"comment": "In-game point text",
-		"translation": "Uccisione portatore bomba"
+		"translation": "Uccisione Porta-Bomba"
 	},
 	{
 		"phrase": "Spot assist",
 		"comment": "In-game point text",
-		"translation": "Spot assist"
+		"translation": "Assist di Posizione"
 	},
 	{
 		"phrase": "Attacking",
 		"comment": "In-game point text",
-		"translation": "Attaccando"
+		"translation": "Attacco"
 	},
 	{
 		"phrase": "Defending",
 		"comment": "In-game point text",
-		"translation": "Difendendo"
+		"translation": "Difesa"
 	},
 	{
 		"phrase": "Contesting",
 		"comment": "In-game point text",
-		"translation": "Contestando"
+		"translation": "Contesa"
 	},
 	{
 		"phrase": "Canister capture",
 		"comment": "In-game point text",
-		"translation": "Cattura contenitore"
+		"translation": "Cattura della Tanica"
 	},
 	{
 		"phrase": "Zone capture",
 		"comment": "In-game point text",
-		"translation": "Cattura zona",
+		"translation": "Cattura della Zona",
 		"machine": true
 	},
 	{
 		"phrase": "Beacon capture",
 		"comment": "In-game point text",
-		"translation": "Cattura beacon"
+		"translation": "Cattura del Beacon"
 	},
 	{
 		"phrase": "Beacon destroyed",
 		"comment": "In-game point text",
-		"translation": "Beacon distrutto"
+		"translation": "Distruzione del Beacon"
 	},
 	{
 		"phrase": "Salvage",
 		"comment": "In-game point text",
-		"translation": "Salvage"
+		"translation": "Recupero Materiali"
 	},
 	{
 		"phrase": "Round win",
 		"comment": "In-game point text",
-		"translation": "Vittoria round"
+		"translation": "Vittoria del Round"
 	},
 	{
 		"phrase": "Round survive",
 		"comment": "In-game point text",
-		"translation": "Round sopravissuto"
+		"translation": "Sopravvissuto al Round"
 	},
 	{
 		"phrase": "Assist",
@@ -221,33 +221,33 @@
 	{
 		"phrase": "Assist counts as kill",
 		"comment": "In-game point text",
-		"translation": "Assistenza conta come uccisione"
+		"translation": "Assist considerato Uccisione"
 	},
 	{
 		"phrase": "Fortifying",
 		"comment": "In-game point text",
-		"translation": "Fortificando"
+		"translation": "Fortificazione"
 	},
 	{
 		"phrase": "Most Valuable Player",
 		"comment": "Medal name",
-		"translation": "Gicatore più prezioso",
+		"translation": "Gicatore più Importante",
 		"machine": true
 	},
 	{
 		"phrase": "Annihilator",
 		"comment": "Medal name",
-		"translation": "Anniettatore"
+		"translation": "Annientatore"
 	},
 	{
 		"phrase": "Marksman",
 		"comment": "Medal name",
-		"translation": "Tiratore scelto"
+		"translation": "Tiratore Scelto"
 	},
 	{
 		"phrase": "Creator",
 		"comment": "Medal name",
-		"translation": "Creatore",
+		"translation": "Costruttore",
 		"machine": true
 	},
 	{
@@ -282,7 +282,7 @@
 	{
 		"phrase": "Assistance",
 		"comment": "Medal name",
-		"translation": "Assistenza",
+		"translation": "Creatore di Assist",
 		"machine": true
 	},
 	{
@@ -305,18 +305,18 @@
 	{
 		"phrase": "Team placement",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Posizionamento della squadra",
+		"translation": "Entrando in una Squadra",
 		"machine": true
 	},
 	{
 		"phrase": "Connecting",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Collegando"
+		"translation": "Connessione"
 	},
 	{
 		"phrase": "Loading Map",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Caricamento mappa",
+		"translation": "Caricamento Mappa",
 		"machine": true
 	},
 	{
@@ -328,19 +328,19 @@
 	{
 		"phrase": "Playing",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Giocando",
+		"translation": "In Gioco",
 		"machine": true
 	},
 	{
 		"phrase": "Reserved (party)",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Riservato (festa)",
+		"translation": "Riservato (party)",
 		"machine": true
 	},
 	{
 		"phrase": "Selecting a team",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Selezione di una squadra",
+		"translation": "Selezionando una Squadra",
 		"machine": true
 	},
 	{
@@ -351,7 +351,7 @@
 	{
 		"phrase": "Left",
 		"comment": "[Scoreboard] Player joining status",
-		"translation": "Sinistra",
+		"translation": "è uscito",
 		"machine": true
 	},
 	{
@@ -368,22 +368,22 @@
 	{
 		"phrase": "Capture the Flag",
 		"comment": "Game mode name",
-		"translation": "Cattura della bandiera"
+		"translation": "Cattura la Bandiera"
 	},
 	{
 		"phrase": "Escort",
 		"comment": "Game mode name",
-		"translation": "Escort"
+		"translation": "Escorta la Bandiera "
 	},
 	{
 		"phrase": "Gun Game",
 		"comment": "Game mode name",
-		"translation": "Gun game"
+		"translation": "Corsa alle Armi"
 	},
 	{
 		"phrase": "Head Hunter",
 		"comment": "Game mode name",
-		"translation": "Head hunter"
+		"translation": "Cacciatore di Taglie"
 	},
 	{
 		"phrase": "Spire",
@@ -404,18 +404,18 @@
 	{
 		"phrase": "Kicked by a moderator",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Espulso da un moderatore"
+		"translation": "Espulso da un Moderatore"
 	},
 	{
 		"phrase": "Already in game",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Già in gioco",
+		"translation": "Già in Gioco",
 		"machine": true
 	},
 	{
 		"phrase": "Authentication failed",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Autenticazione fallita",
+		"translation": "Autenticazione Fallita",
 		"machine": true
 	},
 	{
@@ -437,18 +437,18 @@
 	{
 		"phrase": "Kicked for inactivity",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Espulso per inattività"
+		"translation": "Espulso per Inattività"
 	},
 	{
 		"phrase": "Internal error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Errore interno",
+		"translation": "Errore Interno",
 		"machine": true
 	},
 	{
 		"phrase": "Map is restoring. Try again in 10 seconds",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "La mappa si sta ripristinando. Riprova tra 10 secondi"
+		"translation": "La mappa si sta ricaricando. Riprova tra 10 secondi"
 	},
 	{
 		"phrase": "Network Error",
@@ -459,7 +459,7 @@
 	{
 		"phrase": "No Error",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Nessun errore",
+		"translation": "Nessun Errore",
 		"machine": true
 	},
 	{
@@ -477,23 +477,23 @@
 	{
 		"phrase": "Temporarily Banned",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Bannato temporaneamente"
+		"translation": "Bannato Temporaneamente"
 	},
 	{
 		"phrase": "Version mismatch",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Versione non corrispondente",
+		"translation": "Versione non aggiornata",
 		"machine": true
 	},
 	{
 		"phrase": "Votekicked",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Espulsione a votazione"
+		"translation": "Espulso da votazione"
 	},
 	{
 		"phrase": "Votekick still in effect",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Esplusione a votazione ancora in vigore"
+		"translation": "Esplusione da votazione ancora in vigore"
 	},
 	{
 		"phrase": "Incorrect password",
@@ -509,30 +509,30 @@
 	{
 		"phrase": "You can only claim 3 lobbies per day",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Puoi richiedere solo 3 lobby al giorno",
+		"translation": "Puoi reclamare solo 3 lobby al giorno",
 		"machine": true
 	},
 	{
 		"phrase": "Lobby already claimed",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Lobby già richiesta"
+		"translation": "Lobby già privata"
 	},
 	{
 		"phrase": "Min level must be lower than your own",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Il livello minimo deve essere inferiore al tuo",
+		"translation": "Il livello minimo deve essere più basso del tuo",
 		"machine": true
 	},
 	{
 		"phrase": "Max level must be greater than your own",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Il livello massimo deve essere maggiore del tuo",
+		"translation": "Il livello massimo deve essere più alto del tuo",
 		"machine": true
 	},
 	{
 		"phrase": "Min level can't be greater than max level",
 		"comment": "Reason for being disconnected from a server",
-		"translation": "Il livello minimo non può essere maggiore del livello massimo",
+		"translation": "Il livello minimo non può esserepiù alto del livello massimo",
 		"machine": true
 	},
 	{
